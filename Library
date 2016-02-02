@@ -1,0 +1,8 @@
+public class Library {
+
+  public void addNewBook(){}
+  public void removeOldBook(){}
+  public void borrowBook(){}
+  public void returnBook(){} 
+
+}
